@@ -20,18 +20,18 @@ CamRead is a fun Python desktop app that uses your webcam to recognize hand gest
 ## 🛠️ Requirements
 
 Make sure you have Python 3.12 installed, then install dependencies:
--OpenCV
--Mediapipe
--numpy
--Pillow
--TKinter
+- OpenCV
+- Mediapipe
+- numpy
+- Pillow
+- TKinter
 
-##Future Ideas
--Add gesture based interactions
--Add sound effects etc.
--Include more gestures
+## Future Ideas
+- Add gesture based interactions
+- Add sound effects etc.
+- Include more gestures
 
-##Credit
--Mediapipe by Google
--OpenCV
--Pillow
+## Credit
+- Mediapipe by Google
+- OpenCV
+- Pillow
